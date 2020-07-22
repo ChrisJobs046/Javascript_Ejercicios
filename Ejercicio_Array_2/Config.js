@@ -28,7 +28,7 @@
 
     //let unicos = new Set(carros);
 
-    alert("El valor que mas se repire en el arreglo de array es el "+datos+" un total de "+ MayorRepite+" veces");
+    alert("El valor que mas se repite en el arreglo de array es el "+datos+" un total de "+ MayorRepite+" veces");
 
 
 
